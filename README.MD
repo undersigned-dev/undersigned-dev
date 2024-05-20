@@ -1,2 +1,2 @@
-#GIT
-Git lesson
+# GIT
+Git lesson.
