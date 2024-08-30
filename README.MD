@@ -1,2 +1,2 @@
-# GIT
-Git lesson.
+# Git and Github
+Git and Github lesson.
