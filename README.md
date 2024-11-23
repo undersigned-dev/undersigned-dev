@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @undersigned-dev
-- 👀 I’m interested in ... Full stack web development
+- 👀 I’m interested in ... Full stack web development, MERN stack
 - 🌱 I’m currently learning ... Frontend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/sk-zayed-4a67942b5
