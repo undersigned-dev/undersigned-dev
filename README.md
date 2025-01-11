@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @undersigned-dev
+- 👋 Hi, sk zayed
 - 👀 I’m interested in ... Full stack web development, MERN stack
 - 🌱 I’m currently learning ... Frontend Development
 - 💞️ I’m looking to collaborate on ...
